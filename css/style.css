@@ -1,0 +1,55 @@
+/*ex1*/
+#draggable { 
+	width: 150px;
+ 	height: 150px; 
+ 	background-color: blue;
+ 	color: white;
+ 	}
+/* ex2*/
+ #draggable1, #draggable2, #draggable3 { width: 120px; height: 120px; padding: 0.5em; float: left; margin: 0 10px 10px 0;display:block; }
+/*ex3*/
+ul { list-style-type:none; margin: 0; padding: 0; margin-bottom: 10px;}
+  li { margin: 5px; padding: 5px; width: 150px; }
+/*  ex4*/
+ #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h2 { text-align: center; }
+/*  ex5*/
+#resizable1 { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable1 h4 { text-align: center; }
+  .ui-resizable-helper { border: 1px dotted gray; }/*ex1*/
+#draggable { 
+  width: 100px;
+  height: 100px; 
+  background-color: black;
+  color: white;
+  }
+/* ex2*/
+ #draggable1, #draggable2, #draggable3 { width: 120px; height: 120px; padding: 0.5em; float: left; margin: 0 10px 10px 0;display:block; }
+/*ex3*/
+ul { list-style-type:none; margin: 0; padding: 0; margin-bottom: 10px;}
+  li { margin: 5px; padding: 5px; width: 150px; }
+/*  ex4*/
+ #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h2 { text-align: center; }
+/*  ex5*/
+#resizable1 { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable1 h4 { text-align: center; }
+  .ui-resizable-helper { border: 1px dotted gray; }/*ex1*/
+#draggable { 
+  width: 100px;
+  height: 100px; 
+  background-color: black;
+  color: white;
+  }
+/* ex2*/
+ #draggable1, #draggable2, #draggable3 { width: 120px; height: 120px; padding: 0.5em; float: left; margin: 0 10px 10px 0;display:block; }
+/*ex3*/
+ul { list-style-type:none; margin: 0; padding: 0; margin-bottom: 10px;}
+  li { margin: 5px; padding: 5px; width: 150px; }
+/*  ex4*/
+ #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h2 { text-align: center; }
+/*  ex5*/
+#resizable1 { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable1 h4 { text-align: center; }
+  .ui-resizable-helper { border: 1px dotted gray; }
